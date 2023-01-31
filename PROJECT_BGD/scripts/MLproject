@@ -1,6 +1,0 @@
-# /MLproject
-name: Project_BGD
-#python_env: proj.yaml
-entry_points:
-   main:
-      command: "python ModelTraining.py"
